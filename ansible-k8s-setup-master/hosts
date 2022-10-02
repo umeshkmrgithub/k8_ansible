@@ -1,0 +1,9 @@
+[masters]
+172.16.16.201 k8sm1 k8sm1.lab.com
+
+[workers]
+172.16.16.202 k8sw1 k8sw1.lab.com
+172.16.16.203 k8sw2 k8sw2.lab.com
+172.16.16.200 lbansi lbansi.lab.com
+
+
